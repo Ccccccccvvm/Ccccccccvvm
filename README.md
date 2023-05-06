@@ -14,7 +14,3 @@
 - Application Security Research
 - Reverse Engineering
 
-## 📫 Reach Me
-
-- Email: Gh0717888@gmail.com
-<!--- Blog: http://www.unidbg.com-->
